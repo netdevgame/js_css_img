@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="512" height="512">
+<title>DevGame.Net</title>
+<defs>
+<linearGradient id="b" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#3a8ae0"/><stop offset=".55" stop-color="#1f5fae"/><stop offset="1" stop-color="#123566"/></linearGradient>
+<linearGradient id="g" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#fbe6ae"/><stop offset=".5" stop-color="#e8b95c"/><stop offset="1" stop-color="#b57a22"/></linearGradient>
+<linearGradient id="s" x1="0" x2="1" y1="1" y2="0"><stop offset="0" stop-color="#b9c6db"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+</defs>
+<path d="M32 4 56.2 18v28L32 60 7.8 46V18z" fill="url(#b)" stroke="url(#g)" stroke-linejoin="round" stroke-width="3.4"/>
+<path d="M32 9.6 51.4 20.8v22.4L32 54.4 12.6 43.2V20.8z" fill="none" stroke="#ffffff" stroke-linejoin="round" stroke-opacity=".18" stroke-width="1.2"/>
+<path d="M20.4 46.4 51 13 17.6 43.6z" fill="url(#s)"/>
+<path d="M15.1 41.1 22.9 48.9" stroke="url(#g)" stroke-linecap="round" stroke-width="3.2"/>
+<path d="M19 45 14.6 49.4" stroke="#f3d89a" stroke-linecap="round" stroke-width="2.6"/>
+<circle cx="13.3" cy="50.7" fill="url(#g)" r="2.3"/>
+<path d="M21 17h11c9.4 0 16 6.6 16 15s-6.6 15-16 15H21zm6.5 6v18H32c5.3 0 9-3.8 9-9s-3.7-9-9-9z" fill="url(#g)" fill-rule="evenodd" paint-order="stroke" stroke="#123566" stroke-linejoin="round" stroke-width="1.6"/>
+</svg>
